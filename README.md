@@ -1,2 +1,2 @@
 # house
-for Kira
+Публичные проекты от @barabanov_ev (@e.barabanov)
